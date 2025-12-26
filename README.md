@@ -1,4 +1,4 @@
-# Test case for a bug in Django
+# Test case for a bug in Django (#36832 in Trac)
 
 Back to at least Django 4.0, there is a bug in the database interface under
 specific conditions:
